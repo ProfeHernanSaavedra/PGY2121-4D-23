@@ -101,4 +101,9 @@ public class CicloMientras {
         
     }
     
+    public void prueba()
+    {
+        System.out.println("Hola");
+    }
+    
 }
